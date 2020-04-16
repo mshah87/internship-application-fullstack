@@ -1,6 +1,4 @@
-name = "{{project-name}}"
+name = "maulik-app"
 type = "javascript"
-account_id = ""
+account_id = "a4b8a315f08540af32b444f01780fa49"
 workers_dev = true
-route = ""
-zone_id = ""
